@@ -1,5 +1,5 @@
-Sajal Agarwal
-CMPE 255: Data Mining
+Sajal Agarwal<br>
+CMPE 255: Data Mining<br>
 Assignment 2
 
 This is the second assignment which is focused on teaching us the basics of pycaret and automl. Through this assignment I learned about the Jadbio tool which automates the machine learning process, and the second part of this assignment focused on the pycaret, an open-source low code machine learning library. Both the parts of the assignment can be found under the respectives directories (Assignment1_AutoML and Assignment2_Pycaret) 
@@ -26,7 +26,7 @@ In this part of the assignment, I used JADBio to demonstrate an end-to-end machi
 ### Dataset
 The dataset used for this project is "Creditability - German Credit Data". It can be found at - https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadsgermancsv
 ### References
-https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos
+https://www.youtube.com/channel/UCuvLxmd6r7uQJqzfv1sYHwg/videos<br>
 https://jadbio.com/extract-knowledge-from-your-data-with-jadbio-automl-free/
 
 ### Part 2: PyCaret and Gradio
@@ -45,11 +45,11 @@ Multiple datasets has been used in this part. The datasets used are from the kag
 
 
 ### References
-https://pycaret.gitbook.io/docs/learn-pycaret/videos
-https://pycaret.gitbook.io/docs/get-started/tutorials
-https://pycaret.gitbook.io/docs/get-started/tutorials
-https://github.com/pycaret/examples
-https://www.youtube.com/watch?v=4JyYhbW6eCA
-https://github.com/pycaret/pycaret
-https://github.com/pycaret/pycaret/tree/master/examples
+https://pycaret.gitbook.io/docs/learn-pycaret/videos<br>
+https://pycaret.gitbook.io/docs/get-started/tutorials<br>
+https://pycaret.gitbook.io/docs/get-started/tutorials<br>
+https://github.com/pycaret/examples<br>
+https://www.youtube.com/watch?v=4JyYhbW6eCA<br>
+https://github.com/pycaret/pycaret<br>
+https://github.com/pycaret/pycaret/tree/master/examples<br>
 https://pycaret.gitbook.io/docs/learn-pycaret/official-blog
