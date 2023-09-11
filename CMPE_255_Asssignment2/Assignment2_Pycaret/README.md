@@ -32,6 +32,10 @@ Using this, I have performed various types of tasks including:
 
 All the code can be found in the notebooks uploaded, you can refer that. Additionally I have uploaded all the datasets as well.
 
+I have uploaded 2 youtube videos as well, demonstrating the tasks using gradio. Videos can be found at-<br>
+https://youtu.be/7lMROIm1oZI<br>
+https://youtu.be/4FWDRk4fR9E
+
 ### References
 https://pycaret.gitbook.io/docs/learn-pycaret/videos<br>
 https://pycaret.gitbook.io/docs/get-started/tutorials<br>
