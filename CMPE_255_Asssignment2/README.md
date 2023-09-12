@@ -15,6 +15,7 @@ This is the second assignment which is focused on teaching us the basics of pyca
 - PycaretAssignment_Binary_Classification.ipynb
 - PycaretAssignment_Clustering.ipynb
 - PycaretAssignment_Multiclass_Classification.ipynb
+- PycaretAssignment_Association_Rules.ipynb
 - PycaretAssignment_Time_Series_With_Exogenous (1).ipynb
 - PycaretAssignment_Time_Series_Without_Exogenous.ipynb
 
@@ -36,7 +37,8 @@ Tasks peformed -
 * Multiclass Classification 
 * Regression 
 * Clustering 
-* Anomaly Detection 
+* Anomaly Detection
+* Association Rules Mining
 * Time Series Forecasting Univariate without Exogenous Variables
 * Time Series Forecasting Univariate with Exogenous Variables
 
