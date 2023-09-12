@@ -6,7 +6,7 @@ This is the second assignment which is focused on teaching us the basics of pyca
 
 ### List of Files
 ### (Part 1)
-- Article (Medium Article PDF)
+- Article (Medium Article PDF) (Link - https://medium.com/@agarwal.sajal30/exploring-the-potential-of-automl-through-jadbio-a-personal-hands-on-journey-f8dccb4d5df9)
 - german_credit_dataset (dataset used for ml project)
 - JADBio Automated Machine Learning Platform - AutoML.pdf
 - analysis_predictions_german_Creditability_Performance_20230909_H13M44.txt
