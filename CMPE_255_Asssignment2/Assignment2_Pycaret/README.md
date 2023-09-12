@@ -6,6 +6,7 @@ Using this, I have performed various types of tasks including:
 * Regression
 * Clustering
 * Anomaly Detection
+* Association Rules Mining
 * Time Series Forecasting Univariate without Exogenous Variables
 * Time Series Forecasting Univariate with Exogenous Variables
 
@@ -14,6 +15,7 @@ Using this, I have performed various types of tasks including:
 **Multiclass Classification:** car_evaluation.csv<br>
 **Regression:** Diamonds Prices2022.csv<br>
 **Clustering:** movies.csv<br>
+**Association Rules Mining:** synthetic_retail_transactions.csv<br>
 **Time Series Forecasting (Univariate without Exogenous Variables):** synthetic_stock_price_data.csv<br>
 **Time Series Forecasting (Univariate with Exogenous Variables):** simulated_sales_data.csv
 
