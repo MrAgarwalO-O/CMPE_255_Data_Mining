@@ -1,0 +1,3 @@
+CRISP-DM article - https://medium.com/@agarwal.sajal30/crisp-dm-mall-customer-segmentation-d6801cae60de
+SEMMA article - https://medium.com/@agarwal.sajal30/semma-methodology-on-the-bank-marketing-dataset-7209bdd4ca1a
+KDD article - https://medium.com/@agarwal.sajal30/knowledge-discovery-in-databases-kdd-with-diabetes-dataset-66f8a2ab1947
