@@ -29,3 +29,7 @@ This visualization uses D3.js to create a bar chart with transitions. The bars s
 
 ### Visualization 3: Scatter Plot with Interactivity
 This visualization uses D3.js to create an interactive scatter plot. Each data point is represented as a circle, and when you hover over a circle, its coordinates are displayed as a tooltip.
+## References
+https://towardsdatascience.com/data-visualization-for-eda-exploratory-data-analysis-f001a1bf0087 <br>
+https://python.plainenglish.io/unicorn-startups-data-analysis-and-visualization-377224424a6a <br>
+https://medium.com/hackernoon/taking-data-visualization-to-another-level-4d1c47bb01a2
