@@ -1,6 +1,7 @@
 # Auto EDA with Sweetviz
 
 This project demonstrates the use of Sweetviz, an automated Exploratory Data Analysis (EDA) tool, to analyze the "Mall Customers" dataset.
+The generated report can be found in the "untitled.html" file.
 
 ## About the Dataset
 
