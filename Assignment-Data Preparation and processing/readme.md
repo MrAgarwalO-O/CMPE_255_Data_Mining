@@ -9,7 +9,6 @@ Tasks performed -
 - Perform detailed data preprocessing, cleaning and all the steps - before that performed detailed eda - Take chat gpt4 help if needed. You can use auto eda and auto ds together with your manual insights and auto ml (like azure,sagemaker)
 - do clustering and anomaly elimnations in the data sets. do data imputation etc.,. all steps in data preparation including feature processing and feature selection.
 - build various ml models using auto ml including ensemble model
-  
 # Files
 1. Tabular - Google Colab notebook for working with tabular data.
 2. Timeseries - Google Colab notebook for working with timeseries data.
@@ -18,6 +17,9 @@ Tasks performed -
 5. Audio - Google Colab notebook for working with audio data.
 6. Video - Google Colab notebook for working with video data.
 7. Grapd - Google Colab notebook for working with graph data.
+
+# Medium Article Link - 
+https://medium.com/@agarwal.sajal30/data-preparation-and-processing-a8b7e092aeec
 
 # References
 https://towardsdatascience.com/eda-on-graphs-via-networkx-a79d2684da53 <br>
